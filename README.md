@@ -1,5 +1,7 @@
 # IGTI-bootcamp-fullstack-desafio01
 
+está sem o css por enquanto :p 
+
 primeiro desafio do bootcmap de fullstack do IGTI
 
 - consumir a api https://randomuser.me/api/?seed=javascript&results=100&nat=BR&noinfo
