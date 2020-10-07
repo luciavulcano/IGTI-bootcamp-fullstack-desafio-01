@@ -1,5 +1,7 @@
 # IGTI-bootcamp-fullstack-desafio01
 
+https://luciavulcano.github.io/IGTI-bootcamp-fullstack-desafio01/
+
 está sem o css por enquanto :p 
 
 primeiro desafio do bootcmap de fullstack do IGTI
