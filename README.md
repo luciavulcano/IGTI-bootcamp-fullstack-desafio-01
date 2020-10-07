@@ -1,4 +1,4 @@
-# IGTI-bootcamp-fullstack-desafio01
+# IGTI-bootcamp-fullstack-desafio-01
 
 https://luciavulcano.github.io/IGTI-bootcamp-fullstack-desafio01/
 
